@@ -1,0 +1,12 @@
+[credential "https://github.com"]
+	helper =
+	helper = !/usr/bin/gh auth git-credential
+[credential "https://gist.github.com"]
+	helper =
+	helper = !/usr/bin/gh auth git-credential
+[user]
+	email = 106452048+TheGreatGatley@users.noreply.github.com
+	name = Daniel Gatty
+[core]
+	editor = nvim
+	autorcrlf = input
